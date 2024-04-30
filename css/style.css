@@ -1,0 +1,12 @@
+.col {
+    background-color: aquamarine;
+    justify-content: center;
+}
+.row {
+    justify-content: center;
+    align-self: center;
+}
+img{
+    width: 100px;
+    height: 200px;
+}
